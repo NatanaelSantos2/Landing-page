@@ -1,4 +1,4 @@
-Landing Page Simples
+Landing Page Simples 
 Uma landing page fictícia para apresentação de um produto com:
 - Título
 - Descrição
